@@ -2327,7 +2327,7 @@ document.addEventListener('DOMContentLoaded', () => {
             page: "43"
         }
     ]
-},```
+},
         
         // Vous pourrez ajouter 'M05', etc. ici
      
@@ -2556,6 +2556,7 @@ document.addEventListener('DOMContentLoaded', () => {
     // --- Initialisation au chargement de la page ---
     populateDropdown();
 });
+
 
 
 
